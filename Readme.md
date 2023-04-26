@@ -24,3 +24,14 @@ g. The pdf.drawString() method is used to add the contents of the texto variable
 h. The pdf.save() method is used to save the PDF file.
 
 The main function convertir_archivo_a_pdf() is called at the end of the code to perform the conversion.
+
+Open user interface
+![convertidor](https://user-images.githubusercontent.com/86695688/234698403-c912394e-203d-4010-a307-e3c15ecaa291.png)
+
+
+
+txt file, converted to pdf
+
+
+![convert1](https://user-images.githubusercontent.com/86695688/234698578-9d6a71ff-67fb-45c4-b676-8c10f09512dd.png)
+
